@@ -29,9 +29,9 @@
 // CS 465 Introduction to Computer Security:Programming Assignment #1
 // Due on September 23rd, 2015
 // Frederik Berentsen
-// Login: fsberentsen
-// ID: 800153924
-// Email: fsberentsen@mix.wvu.edu
+// Login: xxxxxxxx
+// ID: xxxxxxxx
+// Email: xxxxxxx@mix.wvu.edu
 
 // Inlclude the header file, that contains variables and in turn loads the support file and other needed libraries.
 #include "AES.h"

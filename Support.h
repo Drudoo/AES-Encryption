@@ -29,9 +29,9 @@
 // CS 465 Introduction to Computer Security:Programming Assignment #1
 // Due on September 23rd, 2015
 // Frederik Berentsen
-// Login: fsberentsen
-// ID: 800153924
-// Email: fsberentsen@mix.wvu.edu
+// Login: xxxxxxxx
+// ID: xxxxxxxxx
+// Email: xxxxxxxx@mix.wvu.edu
 
 #include <string> // For string support
 #include <iostream> // For cout support
